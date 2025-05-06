@@ -1,1 +1,2 @@
-JWT
+![JWT Security](security.gif)
+
